@@ -2,13 +2,13 @@
 	"noticias": [
 		{
 			"id": 31159,
-			"date": "2018-09-03T18:57:34",
-			"date_gmt": "2018-09-03T21:57:34",
+			"date": "2018-09-12T18:57:34",
+			"date_gmt": "2018-09-12T21:57:34",
 			"guid": {
 				"rendered": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/?post_type=noticias&#038;p=31159"
 			},
-			"modified": "2018-09-03T18:58:41",
-			"modified_gmt": "2018-09-03T21:58:41",
+			"modified": "2018-09-12T18:58:41",
+			"modified_gmt": "2018-09-12T21:58:41",
 			"slug": "processo-seletivo-do-insper-tera-avaliacao-de-habilidades-socioemocionais-em-2a-fase",
 			"status": "publish",
 			"type": "noticias",
@@ -86,13 +86,13 @@
 		},
 		{
 			"id": 30673,
-			"date": "2018-08-28T18:50:12",
-			"date_gmt": "2018-08-28T21:50:12",
+			"date": "2018-09-12T18:50:12",
+			"date_gmt": "2018-09-12T21:50:12",
 			"guid": {
 				"rendered": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/?post_type=noticias&#038;p=30673"
 			},
-			"modified": "2018-08-28T18:50:12",
-			"modified_gmt": "2018-08-28T21:50:12",
+			"modified": "2018-09-12T18:50:12",
+			"modified_gmt": "2018-09-12T21:50:12",
 			"slug": "5o-workshop-de-historia-economica-reune-pesquisadores-e-alunos",
 			"status": "publish",
 			"type": "noticias",
