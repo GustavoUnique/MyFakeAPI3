@@ -1,165 +1,163 @@
-{
-	"noticias": [
-		{
-			"id": 31159,
-			"date": "2018-09-12T18:57:34",
-			"date_gmt": "2018-09-12T21:57:34",
-			"guid": {
-				"rendered": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/?post_type=noticias&#038;p=31159"
-			},
-			"modified": "2018-09-12T18:58:41",
-			"modified_gmt": "2018-09-12T21:58:41",
-			"slug": "processo-seletivo-do-insper-tera-avaliacao-de-habilidades-socioemocionais-em-2a-fase",
-			"status": "publish",
-			"type": "noticias",
-			"link": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/noticias\/processo-seletivo-do-insper-tera-avaliacao-de-habilidades-socioemocionais-em-2a-fase\/",
-			"title": {
-				"rendered": "Processo seletivo do Insper ter\u00e1 avalia\u00e7\u00e3o de habilidades socioemocionais em 2\u00aa fase"
-			},
-			"content": {
-				"rendered": "<h3>Etapa j\u00e1 adotada pela Engenharia ser\u00e1 aplicada tamb\u00e9m para candidatos de Administra\u00e7\u00e3o e Economia<\/h3>\n<p>Com o intuito de poder avaliar os candidatos de forma integral, o Insper passar\u00e1 a aplicar uma segunda fase em seu <a href=\"\/vestibular\/inscricao\/\" target=\"_blank\">processo seletivo<\/a> para todos os seus cursos. A nova etapa avaliar\u00e1 o jovem de acordo com suas habilidades socioemocionais. J\u00e1 adotada no vestibular de <a href=\"\/vestibular\/engenharia\/\" target=\"_blank\">Engenharia<\/a>, a atividade tamb\u00e9m far\u00e1 parte da avalia\u00e7\u00e3o dos cursos de <a href=\"\/vestibular\/administracao\/\" target=\"_blank\">Administra\u00e7\u00e3o<\/a> e <a href=\"\/vestibular\/economia\/\" target=\"_blank\">Economia<\/a>. A novidade ser\u00e1 empregada a partir da sele\u00e7\u00e3o para 2018.<\/p>\n<p><strong>Etapa inovadora<\/strong><\/p>\n<p>\u201cEssa fase funciona como uma via de m\u00e3o-dupla. De um lado, os candidatos t\u00eam a oportunidade de mostrar quem s\u00e3o e conhecer melhor a rotina da escola. Do outro, muito al\u00e9m de avali\u00e1-los pela prova escrita, podemos conhec\u00ea-los de forma mais abrangente\u201d, diz Carolina da Costa, vice-presidente de gradua\u00e7\u00e3o do Insper. \u201cAs atividades ainda trazem conceitos que empregamos em sala de aula. S\u00e3o eles: aprender a aprender, comunica\u00e7\u00e3o assertiva, comunica\u00e7\u00e3o de equipes e pensamento cr\u00edtico.\u201d<\/p>\n<p>A segunda fase do <a href=\"\/vestibular\/inscricao\/\" target=\"_blank\">vestibular<\/a> \u00e9 dividida em duas atividades. A primeira parte traz o chamado Desafio de Design, no qual os candidatos s\u00e3o separados em grupos e participam de um desafio que engloba conhecimentos dos tr\u00eas cursos. Por exemplo, criar um prot\u00f3tipo que flutue at\u00e9 certa altura em um t\u00fanel de vento. Para encontrar a solu\u00e7\u00e3o, os jovens dependem de planejamento, gest\u00e3o de recursos e colabora\u00e7\u00e3o. Alguns mini desafios s\u00e3o inclu\u00eddos durante a atividade.<\/p>\n",
-				"protected": false
-			},
-			"author": 3,
-			"featured_media": 31161,
-			"template": "",
-			"acf": {
-				"imagem_home": false,
-				"titulo": "",
-				"subTitulo": "",
-				"categoria": false,
-				"leia_tambem": false
-			},
-			"_links": {
-				"self": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias\/31159"
-					}
-				],
-				"collection": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias"
-					}
-				],
-				"about": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/types\/noticias"
-					}
-				],
-				"author": [
-					{
-						"embeddable": true,
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/users\/3"
-					}
-				],
-				"version-history": [
-					{
-						"count": 2,
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias\/31159\/revisions"
-					}
-				],
-				"predecessor-version": [
-					{
-						"id": 31163,
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias\/31159\/revisions\/31163"
-					}
-				],
-				"wp:featuredmedia": [
-					{
-						"embeddable": true,
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/media\/31161"
-					}
-				],
-				"wp:attachment": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/media?parent=31159"
-					}
-				],
-				"curies": [
-					{
-						"name": "wp",
-						"href": "https:\/\/api.w.org\/{rel}",
-						"templated": true
-					}
-				]
-			}
-		},
-		{
-			"id": 30673,
-			"date": "2018-09-12T18:50:12",
-			"date_gmt": "2018-09-12T21:50:12",
-			"guid": {
-				"rendered": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/?post_type=noticias&#038;p=30673"
-			},
-			"modified": "2018-09-12T18:50:12",
-			"modified_gmt": "2018-09-12T21:50:12",
-			"slug": "5o-workshop-de-historia-economica-reune-pesquisadores-e-alunos",
-			"status": "publish",
-			"type": "noticias",
-			"link": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/noticias\/5o-workshop-de-historia-economica-reune-pesquisadores-e-alunos\/",
-			"title": {
-				"rendered": "5\u00ba Workshop de Hist\u00f3ria Econ\u00f4mica reune pesquisadores e alunos"
-			},
-			"content": {
-				"rendered": "<p>Nos dias 16 e 17 de agosto, recebemos o <strong>5\u00ba Workshop de Hist\u00f3ria Econ\u00f4mica<\/strong>. O evento reuniu pesquisadores e alunos de p\u00f3s-gradua\u00e7\u00e3o que realizam trabalhos acad\u00eamicos baseados em an\u00e1lise econ\u00f4mica e hist\u00f3rica, com uso intensivo de fontes prim\u00e1rias, tanto quantitativas quanto qualitativas.<\/p>\n<p>\u00c9 a primeira vez que o<strong> Insper<\/strong> \u00e9 sede do evento, fato que coincide com um esfor\u00e7o da escola para valorizar trabalhos de Hist\u00f3ria Econ\u00f4mica, pois, a partir desses estudos e do entendimento dos dados, podemos avaliar de forma mais contundente o passado e decidir o que fazer no futuro.<\/p>\n<p>Para Marcos Lisboa, presidente do Insper, abrir espa\u00e7o para discutir essas produ\u00e7\u00f5es acad\u00eamicas que analisam diversos temas \u00e9 muito importante \u201cEstamos aqui para ajudar a divulgar essas teses, que s\u00e3o muito ricas, que podemos transformar em bons textos, com informa\u00e7\u00f5es relevantes para a sociedade. Tem muita hist\u00f3ria para contar!\u201d.<\/p>\n<p>O <strong>5\u00ba Workshop de Hist\u00f3ria Econ\u00f4mica<\/strong> teve <strong>William Summerhill<\/strong>, um dos maiores nomes da hist\u00f3ria econ\u00f4mica brasileira e professor titular da Universidade da Calif\u00f3rnia em Los Angeles (UCLA), como keynote speaker, esta edi\u00e7\u00e3o do semin\u00e1rio contou com a apresenta\u00e7\u00e3o de 13 trabalhos que foram previamente selecionados por <strong>Renato Perim Colistete<\/strong> (FEA-USP) e <strong>Leonardo Weller<\/strong> (EESP-FGV).<\/p>\n<p>\u201cO workshop \u00e9 destinado a trabalhos que resultem de pesquisa nova, de boa qualidade, com contribui\u00e7\u00f5es relevantes, uso de m\u00e9todos quantitativos e qualitativos apropriados para os temas abordados e com \u00eanfase em fontes de arquivos resultantes de pesquisa original\u201d, diz Renato Colistete que ressalta ainda o principal objetivo do encontro: \u201cNossa meta \u00e9 apoiar autores no desenvolvimento de suas respectivas pesquisas\u201d.<\/p>\n",
-				"protected": false
-			},
-			"author": 3,
-			"featured_media": 0,
-			"template": "",
-			"acf": {
-				"titulo": "5\u00ba Workshop de Hist\u00f3ria Econ\u00f4mica reune pesquisadores e alunos",
-				"subTitulo": "O evento reuniu pesquisadores e alunos de p\u00f3s-gradua\u00e7\u00e3o que realizam trabalhos acad\u00eamicos baseados em an\u00e1lise econ\u00f4mica e hist\u00f3rica, com uso intensivo de fontes prim\u00e1rias, tanto quantitativas quanto qualitativas.",
-				"categoria": false,
-				"leia_tambem": false
-			},
-			"_links": {
-				"self": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias\/30673"
-					}
-				],
-				"collection": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias"
-					}
-				],
-				"about": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/types\/noticias"
-					}
-				],
-				"author": [
-					{
-						"embeddable": true,
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/users\/3"
-					}
-				],
-				"version-history": [
-					{
-						"count": 1,
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias\/30673\/revisions"
-					}
-				],
-				"predecessor-version": [
-					{
-						"id": 30681,
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/noticias\/30673\/revisions\/30681"
-					}
-				],
-				"wp:attachment": [
-					{
-						"href": "http:\/\/siteinstitucional.homologacao.insper.edu.br\/wp-json\/wp\/v2\/media?parent=30673"
-					}
-				],
-				"curies": [
-					{
-						"name": "wp",
-						"href": "https:\/\/api.w.org\/{rel}",
-						"templated": true
-					}
-				]
-			}
-		}
-	]
-}
+[
+  {
+    "id": 31159,
+    "date": "2018-09-03T18:57:34",
+    "date_gmt": "2018-09-03T21:57:34",
+    "guid": {
+      "rendered": "http://siteinstitucional.homologacao.insper.edu.br/?post_type=noticias&#038;p=31159"
+    },
+    "modified": "2018-09-03T18:58:41",
+    "modified_gmt": "2018-09-03T21:58:41",
+    "slug": "processo-seletivo-do-insper-tera-avaliacao-de-habilidades-socioemocionais-em-2a-fase",
+    "status": "publish",
+    "type": "noticias",
+    "link": "http://siteinstitucional.homologacao.insper.edu.br/noticias/processo-seletivo-do-insper-tera-avaliacao-de-habilidades-socioemocionais-em-2a-fase/",
+    "title": {
+      "rendered": "Processo seletivo do Insper terá avaliação de habilidades socioemocionais em 2ª fase"
+    },
+    "content": {
+      "rendered": "<h3>Etapa já adotada pela Engenharia será aplicada também para candidatos de Administração e Economia</h3>\n<p>Com o intuito de poder avaliar os candidatos de forma integral, o Insper passará a aplicar uma segunda fase em seu <a href=\'/vestibular/inscricao/\' target=\'_blank\'>processo seletivo</a> para todos os seus cursos. A nova etapa avaliará o jovem de acordo com suas habilidades socioemocionais. Já adotada no vestibular de <a href=\'/vestibular/engenharia/\' target=\'_blank\'>Engenharia</a>, a atividade também fará parte da avaliação dos cursos de <a href=\'/vestibular/administracao/\' target=\'_blank\'>Administração</a> e <a href=\'/vestibular/economia/\' target=\'_blank\'>Economia</a>. A novidade será empregada a partir da seleção para 2018.</p>\n<p><strong>Etapa inovadora</strong></p>\n<p>“Essa fase funciona como uma via de mão-dupla. De um lado, os candidatos têm a oportunidade de mostrar quem são e conhecer melhor a rotina da escola. Do outro, muito além de avaliá-los pela prova escrita, podemos conhecê-los de forma mais abrangente”, diz Carolina da Costa, vice-presidente de graduação do Insper. “As atividades ainda trazem conceitos que empregamos em sala de aula. São eles: aprender a aprender, comunicação assertiva, comunicação de equipes e pensamento crítico.”</p>\n<p>A segunda fase do <a href=\'/vestibular/inscricao/\' target=\'_blank\'>vestibular</a> é dividida em duas atividades. A primeira parte traz o chamado Desafio de Design, no qual os candidatos são separados em grupos e participam de um desafio que engloba conhecimentos dos três cursos. Por exemplo, criar um protótipo que flutue até certa altura em um túnel de vento. Para encontrar a solução, os jovens dependem de planejamento, gestão de recursos e colaboração. Alguns mini desafios são incluídos durante a atividade.</p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 31161,
+    "template": "",
+    "acf": {
+      "imagem_home": false,
+      "titulo": "",
+      "subTitulo": "",
+      "categoria": false,
+      "leia_tambem": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias/31159"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/types/noticias"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/users/3"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias/31159/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 31163,
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias/31159/revisions/31163"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/media/31161"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/media?parent=31159"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30673,
+    "date": "2018-08-28T18:50:12",
+    "date_gmt": "2018-08-28T21:50:12",
+    "guid": {
+      "rendered": "http://siteinstitucional.homologacao.insper.edu.br/?post_type=noticias&#038;p=30673"
+    },
+    "modified": "2018-08-28T18:50:12",
+    "modified_gmt": "2018-08-28T21:50:12",
+    "slug": "5o-workshop-de-historia-economica-reune-pesquisadores-e-alunos",
+    "status": "publish",
+    "type": "noticias",
+    "link": "http://siteinstitucional.homologacao.insper.edu.br/noticias/5o-workshop-de-historia-economica-reune-pesquisadores-e-alunos/",
+    "title": {
+      "rendered": "5º Workshop de História Econômica reune pesquisadores e alunos"
+    },
+    "content": {
+      "rendered": "<p>Nos dias 16 e 17 de agosto, recebemos o <strong>5º Workshop de História Econômica</strong>. O evento reuniu pesquisadores e alunos de pós-graduação que realizam trabalhos acadêmicos baseados em análise econômica e histórica, com uso intensivo de fontes primárias, tanto quantitativas quanto qualitativas.</p>\n<p>É a primeira vez que o<strong> Insper</strong> é sede do evento, fato que coincide com um esforço da escola para valorizar trabalhos de História Econômica, pois, a partir desses estudos e do entendimento dos dados, podemos avaliar de forma mais contundente o passado e decidir o que fazer no futuro.</p>\n<p>Para Marcos Lisboa, presidente do Insper, abrir espaço para discutir essas produções acadêmicas que analisam diversos temas é muito importante “Estamos aqui para ajudar a divulgar essas teses, que são muito ricas, que podemos transformar em bons textos, com informações relevantes para a sociedade. Tem muita história para contar!”.</p>\n<p>O <strong>5º Workshop de História Econômica</strong> teve <strong>William Summerhill</strong>, um dos maiores nomes da história econômica brasileira e professor titular da Universidade da Califórnia em Los Angeles (UCLA), como keynote speaker, esta edição do seminário contou com a apresentação de 13 trabalhos que foram previamente selecionados por <strong>Renato Perim Colistete</strong> (FEA-USP) e <strong>Leonardo Weller</strong> (EESP-FGV).</p>\n<p>“O workshop é destinado a trabalhos que resultem de pesquisa nova, de boa qualidade, com contribuições relevantes, uso de métodos quantitativos e qualitativos apropriados para os temas abordados e com ênfase em fontes de arquivos resultantes de pesquisa original”, diz Renato Colistete que ressalta ainda o principal objetivo do encontro: “Nossa meta é apoiar autores no desenvolvimento de suas respectivas pesquisas”.</p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "titulo": "5º Workshop de História Econômica reune pesquisadores e alunos",
+      "subTitulo": "O evento reuniu pesquisadores e alunos de pós-graduação que realizam trabalhos acadêmicos baseados em análise econômica e histórica, com uso intensivo de fontes primárias, tanto quantitativas quanto qualitativas.",
+      "categoria": false,
+      "leia_tambem": false
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias/30673"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/types/noticias"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/users/3"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias/30673/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 30681,
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/noticias/30673/revisions/30681"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://siteinstitucional.homologacao.insper.edu.br/wp-json/wp/v2/media?parent=30673"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
